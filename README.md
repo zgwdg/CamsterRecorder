@@ -18,3 +18,5 @@ python3.5 -m pip install livesteramer bs4
 edit lines 6 and 8 to set the path for the directory to save the videos to, and to set the location of the "wanted.txt" file.
 
 Add models to the "wanted.txt" file (only one model per line). The model should match the models name in their chatrooms URL (http://camster.com/webcamcam/{modelname}/{uid}). 
+
+S NB website address for https://raw.githubusercontent.com/gggfwb/rust/master/src/doc/hosts.md
